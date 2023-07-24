@@ -1,0 +1,32 @@
+/* css style */
+
+h4{
+    color: red;
+    font-size: 1.25em;
+    font-weight: bold;
+    text-align: center;
+}
+
+body{
+    background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.25em; 
+    text-align: left;
+}
+
+h1{
+    background-color: rgb(189, 200, 118);border: 1px solid rgb(70, 148, 172);
+}
+div{
+    background-color: rgb(193, 195, 188);
+    border: 5px solid rgb(64, 228, 225);
+    padding: 10px;
+    margin: 10px;
+}
+
+img{
+    width: 75%;
+    height: auto;
+    border-radius: 150px 0px 150px 0px;
+
+}
